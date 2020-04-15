@@ -36,7 +36,7 @@
   },
   "homepage": "https://github.com/bitchan/eccrypto",
   "devDependencies": {
-    "browserify": "16.5.0",
+    "browserify": "16.5.1",
     "buffer-equal": "1.0.0",
     "chai": "*",
     "jshint": "*",
@@ -50,12 +50,12 @@
     "mocha": "*"
   },
   "dependencies": {
-    "acorn": "7.1.0",
-    "elliptic": "6.5.1",
+    "acorn": "7.1.1",
+    "elliptic": "6.5.2",
     "es6-promise": "4.2.8",
     "nan": "2.14.0"
   },
   "optionalDependencies": {
-    "secp256k1": "3.7.1"
+    "secp256k1": "3.8.0"
   }
 }
