@@ -40,7 +40,7 @@
     "buffer-equal": "1.0.0",
     "chai": "*",
     "jshint": "*",
-    "karma": "4.3.0",
+    "karma": "6.3.14",
     "karma-browserify": "6.1.0",
     "karma-chrome-launcher": "3.1.0",
     "karma-cli": "2.0.0",
